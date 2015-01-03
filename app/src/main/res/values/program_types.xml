@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+        <string-array name="program_types">
+            <item>Chest Workout</item>
+            <item>Back Workout</item>
+            <item>Biceps and Forearm Workout</item>
+            <item>Triceps Workout</item>
+            <item>Shoulder Workout</item>
+            <item>Abdominal Workout</item>
+            <item>Leg Workout</item>
+            <item>Exercise Stretches</item>
+        </string-array>
+
+</resources>

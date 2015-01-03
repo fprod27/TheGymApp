@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="spalshScreenTheme" parent="android:Theme.DeviceDefault.Light.NoActionBar">
+        <item name="android:windowBackground">@drawable/f</item>
+    </style>
+    <style name="Light" parent="android:Theme.DeviceDefault.Light.NoActionBar"/>
+    <style name="themeGray" parent="android:Theme.DeviceDefault.Light.NoActionBar">
+        <item name="android:windowBackground">@drawable/theme2</item>
+    </style>
+</resources>
